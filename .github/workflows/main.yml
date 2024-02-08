@@ -6,7 +6,7 @@ jobs:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -22,16 +22,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --sort --token ${GITHUB_TOKEN} --topic --topic_limit 500 --filename readme.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Update awesome-stars by topic' --topic --topic_limit 500 --filename readme.md
     - name: update repo category by language
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --sort --token ${GITHUB_TOKEN} --filename by-language.md
-    - name: check dir
-      run: ls -l
-    - name: check files
-      run: cat readme.md
-    - name: check others
-      run: cat by-language.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Update awesome-stars by language' --filename by-language.md
