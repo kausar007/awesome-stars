@@ -29,6 +29,8 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --sort --token ${GITHUB_TOKEN} --filename by-language.md
+    - name: check dir
+      run: ls -l
     - name: check files
       run: cat readme.md
     - name: check others
