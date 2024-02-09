@@ -76,6 +76,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [KyleKun/one_second_diary](https://github.com/KyleKun/one_second_diary) - Minimalist video diary app.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter
@@ -335,7 +336,7 @@
 ## TypeScript 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [reorproject/reor](https://github.com/reorproject/reor) - Private AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private AI note-taking app that self-organizes & runs models locally.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [xvvvyz/list](https://github.com/xvvvyz/list) - Adaptable checklists.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
