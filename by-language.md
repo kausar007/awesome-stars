@@ -336,7 +336,7 @@
 ## TypeScript 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [reorproject/reor](https://github.com/reorproject/reor) - Private AI note-taking app that self-organizes & runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [xvvvyz/list](https://github.com/xvvvyz/list) - Adaptable checklists.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
