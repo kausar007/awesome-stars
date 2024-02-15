@@ -143,7 +143,7 @@
 
 ## ai 
 
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -154,6 +154,7 @@
 
 ## android 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 - [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
@@ -473,6 +474,7 @@
 
 ## hacktoberfest 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -659,7 +661,7 @@
 
 ## markdown 
 
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
 - [casualwriter/casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) - Markdown-as-blog: Build blog site by markdown files.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -683,6 +685,7 @@
 
 ## music 
 
+- [MichaelSebero/Media-Tools](https://github.com/MichaelSebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 
 ## mysql 
@@ -860,6 +863,7 @@
 
 ## python 
 
+- [MichaelSebero/Media-Tools](https://github.com/MichaelSebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative (its free)
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
