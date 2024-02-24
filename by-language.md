@@ -208,7 +208,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api) - Free Quran API Service with 90+ different languages and 400+ translations
 - [mmastrac/brew-a-coffee-demo](https://github.com/mmastrac/brew-a-coffee-demo) - Demo repo for a Github Action that brews coffee (simulator only)
-- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
+- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
 - [animator/learn-python](https://github.com/animator/learn-python) - 📖🐍 Free & Open Source book to master Python 3. Also available: PDF & Web Interface.
 - [sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss) - A list of open source projects with links to contribute or donate.
 - [impallari/Libre-Baskerville](https://github.com/impallari/Libre-Baskerville) - Libre Baskerville Fonts
