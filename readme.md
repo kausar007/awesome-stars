@@ -201,6 +201,7 @@
 
 ## awesome 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -715,6 +716,7 @@
 
 ## nextjs 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 
 ## nlp 
@@ -928,6 +930,7 @@
 
 ## react 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -945,6 +948,7 @@
 
 ## reactjs 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 
