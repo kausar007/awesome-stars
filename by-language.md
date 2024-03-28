@@ -60,6 +60,7 @@
 
 ## CSS 
 
+- [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [GirkovArpa/calligrapher-ai](https://github.com/GirkovArpa/calligrapher-ai) - Handwriting Synthesis with RNNs ✍🏻
 - [nickbalestra/kactus](https://github.com/nickbalestra/kactus) - Cactus's default theme on Jekyll
@@ -125,6 +126,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -135,6 +137,8 @@
 
 ## JavaScript 
 
+- [pmk65/jedemov2](https://github.com/pmk65/jedemov2) - JSON-Editor Playground
+- [Open-Federation/json-schema-editor-visual](https://github.com/Open-Federation/json-schema-editor-visual) - A json-schema editor of high efficient and easy-to-use, base on React.
 - [jakebathman/Markdown-Table-Generator](https://github.com/jakebathman/Markdown-Table-Generator) - Generate markdown syntax tables from delimited text
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [nzbin/photoviewer](https://github.com/nzbin/photoviewer) - 🖼️ A JS plugin to view images just like in Windows.
