@@ -12,6 +12,7 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -89,6 +90,10 @@
 
 - [thibmaek/kid3-docker](https://github.com/thibmaek/kid3-docker) - 🐳 Kid3 running in Docker via X11 server
 - [pierrecdn/phpipam](https://github.com/pierrecdn/phpipam) - phpIPAM Docker image
+
+## Elixir 
+
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Go 
 
@@ -243,6 +248,7 @@
 
 ## PHP 
 
+- [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
