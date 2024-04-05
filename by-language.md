@@ -149,7 +149,7 @@
 - [nzbin/photoviewer](https://github.com/nzbin/photoviewer) - 🖼️ A JS plugin to view images just like in Windows.
 - [nanawel/our-shopping-list](https://github.com/nanawel/our-shopping-list) - OSL is a simple shared list web-application based on Node and VueJS. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively.
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
-- [MarmadileManteater/FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova) - A fork of FreeTube which squashes everything into a webapp and exports it to Android via Cordova
+- [MarmadileManteater/FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova) - A soft fork of FreeTube which brings it to Android
 - [StanfordHCI/wrangler](https://github.com/StanfordHCI/wrangler) - 
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
