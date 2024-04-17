@@ -41,6 +41,7 @@
 
 ## C 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [ishotjr/pw-dos](https://github.com/ishotjr/pw-dos) - :computer: :watch:
@@ -143,6 +144,7 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [pmk65/jedemov2](https://github.com/pmk65/jedemov2) - JSON-Editor Playground
 - [Open-Federation/json-schema-editor-visual](https://github.com/Open-Federation/json-schema-editor-visual) - A json-schema editor of high efficient and easy-to-use, base on React.
 - [jakebathman/Markdown-Table-Generator](https://github.com/jakebathman/Markdown-Table-Generator) - Generate markdown syntax tables from delimited text
@@ -249,6 +251,7 @@
 
 ## PHP 
 
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
