@@ -193,7 +193,7 @@
 
 ## Jinja 
 
-- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative (its free)
+- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative
 
 ## Jupyter Notebook 
 
