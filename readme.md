@@ -848,7 +848,7 @@
 - [xvvvyz/list](https://github.com/xvvvyz/list) - Adaptable checklists.
 - [fabiogra/moseca](https://github.com/fabiogra/moseca) - A Streamilt web app for music source separation & karaoke
 - [StanfordHCI/wrangler](https://github.com/StanfordHCI/wrangler) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [barthr/commandpilot](https://github.com/barthr/commandpilot) - Commandpilot is an assistant which uses ChatGPT to aid in constructing commands for bash
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
