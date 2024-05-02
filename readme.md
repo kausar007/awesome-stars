@@ -456,7 +456,7 @@
 
 ## flask 
 
-- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative
+- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 
 ## flutter 
 
@@ -815,7 +815,7 @@
 ## open-source 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
-- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative
+- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss) - A list of open source projects with links to contribute or donate.
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
@@ -978,7 +978,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [MichaelSebero/Media-Tools](https://github.com/MichaelSebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative
+- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1135,7 +1135,7 @@
 
 ## software 
 
-- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The cheap stream deck alternative
+- [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
