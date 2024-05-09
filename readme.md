@@ -81,6 +81,7 @@
 - [laravel](#laravel)
 - [learning](#learning)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -707,6 +708,13 @@
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## llm 
+
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+
 ## low-code 
 
 - [noodlapp/noodl](https://github.com/noodlapp/noodl) - Noodl is a low code platform for creating full stack web applications
@@ -849,7 +857,6 @@
 - [xvvvyz/list](https://github.com/xvvvyz/list) - Adaptable checklists.
 - [fabiogra/moseca](https://github.com/fabiogra/moseca) - A Streamilt web app for music source separation & karaoke
 - [StanfordHCI/wrangler](https://github.com/StanfordHCI/wrangler) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [barthr/commandpilot](https://github.com/barthr/commandpilot) - Commandpilot is an assistant which uses ChatGPT to aid in constructing commands for bash
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
