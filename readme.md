@@ -527,7 +527,6 @@
 ## hacktoberfest 
 
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -851,6 +850,7 @@
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [jakebathman/Markdown-Table-Generator](https://github.com/jakebathman/Markdown-Table-Generator) - Generate markdown syntax tables from delimited text
 - [dabbott/javascript-playgrounds](https://github.com/dabbott/javascript-playgrounds) - An interactive JavaScript sandbox
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [nzbin/photoviewer](https://github.com/nzbin/photoviewer) - 🖼️ A JS plugin to view images just like in Windows.
 - [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
