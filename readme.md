@@ -737,7 +737,7 @@
 
 ## machine-learning 
 
-- [neonwatty/meme_search](https://github.com/neonwatty/meme_search) - Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.
+- [neonwatty/meme_search](https://github.com/neonwatty/meme_search) - Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.  Find funny fast.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
