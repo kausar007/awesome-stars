@@ -208,7 +208,7 @@
 
 ## Jupyter Notebook 
 
-- [neonwatty/meme_search](https://github.com/neonwatty/meme_search) - Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.
+- [neonwatty/meme_search](https://github.com/neonwatty/meme_search) - Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.  Find funny fast.
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
