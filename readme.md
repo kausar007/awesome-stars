@@ -760,7 +760,7 @@
 
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Note taking for knowledge hackers
 - [casualwriter/casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) - Markdown-as-blog: Build blog site by markdown files.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -866,7 +866,7 @@
 - [nzbin/photoviewer](https://github.com/nzbin/photoviewer) - 🖼️ A JS plugin to view images just like in Windows.
 - [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (not yet self-hostable)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
