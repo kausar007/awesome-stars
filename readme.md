@@ -760,7 +760,7 @@
 
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Note taking for knowledge hackers
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge hacker's notebook
 - [casualwriter/casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) - Markdown-as-blog: Build blog site by markdown files.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
