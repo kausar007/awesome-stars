@@ -890,6 +890,7 @@
 
 ## others 
 
+- [googlefonts/Gulzar](https://github.com/googlefonts/Gulzar) - Nastaliq font
 - [davidz-yt/eink-desk-display](https://github.com/davidz-yt/eink-desk-display) - I made this E-ink display for my computer desk setup as a Always On display
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [rishikanthc/markopolis](https://github.com/rishikanthc/markopolis) - Markdown Programmable Interface
