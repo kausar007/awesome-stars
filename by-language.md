@@ -284,6 +284,7 @@
 
 ## Python 
 
+- [googlefonts/Gulzar](https://github.com/googlefonts/Gulzar) - Nastaliq font
 - [rishikanthc/markopolis](https://github.com/rishikanthc/markopolis) - Markdown Programmable Interface
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
