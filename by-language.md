@@ -48,6 +48,7 @@
 
 ## C# # 
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [streetwriters/notesnook-sync-server](https://github.com/streetwriters/notesnook-sync-server) - Sync server for Notesnook (not yet self-hostable)
 - [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
@@ -268,6 +269,7 @@
 
 ## PHP 
 
+- [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
