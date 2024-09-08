@@ -292,6 +292,7 @@
 
 ## Python 
 
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [googlefonts/Gulzar](https://github.com/googlefonts/Gulzar) - Nastaliq font
 - [rishikanthc/markopolis](https://github.com/rishikanthc/markopolis) - Markdown Programmable Interface
