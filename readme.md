@@ -810,6 +810,7 @@
 
 ## macos 
 
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1308,6 +1309,7 @@
 
 ## swift 
 
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
