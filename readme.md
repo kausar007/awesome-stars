@@ -889,6 +889,7 @@
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
 
 ## nlp 
 
