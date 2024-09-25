@@ -938,6 +938,7 @@
 
 ## others 
 
+- [ahmedHanzala/urdu-tts](https://github.com/ahmedHanzala/urdu-tts) - An open source urdu/hindi text-to-speech system with voice cloning capabilities
 - [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [googlefonts/Gulzar](https://github.com/googlefonts/Gulzar) - Nastaliq font
