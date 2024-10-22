@@ -258,7 +258,6 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [revolution-model/introduction](https://github.com/revolution-model/introduction) - 
 - [adidas/adidas-devops-maturity-framework](https://github.com/adidas/adidas-devops-maturity-framework) - The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
-- [lameay/Free-DevOps-Books-1](https://github.com/lameay/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
