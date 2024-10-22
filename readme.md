@@ -1014,7 +1014,6 @@
 - [adidas/adidas-devops-maturity-framework](https://github.com/adidas/adidas-devops-maturity-framework) - The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support the teams on their DevOps transformation journey.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
-- [lameay/Free-DevOps-Books-1](https://github.com/lameay/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 - [joshuacc/prose-for-programmers](https://github.com/joshuacc/prose-for-programmers) - A book to help software developers write better prose
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [snarfed/open-in-app](https://github.com/snarfed/open-in-app) - UNMAINTAINED: Android app that makes Facebook, Twitter, etc. links open in their native apps instead of the browser.
