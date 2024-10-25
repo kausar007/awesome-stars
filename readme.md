@@ -957,6 +957,7 @@
 
 ## others 
 
+- [seatsurfing/backend](https://github.com/seatsurfing/backend) - Seatsurfing Backend
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [ahmedHanzala/urdu-tts](https://github.com/ahmedHanzala/urdu-tts) - An open source urdu/hindi text-to-speech system with voice cloning capabilities
 - [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
