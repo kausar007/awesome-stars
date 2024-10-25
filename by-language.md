@@ -78,7 +78,6 @@
 - [hemangsk/Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
 - [kronik3r/daktilo](https://github.com/kronik3r/daktilo) - A Jekyll theme with a minimal design inspired by typewriters.
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 
 ## Clojure 
 
@@ -108,6 +107,7 @@
 
 ## Go 
 
+- [seatsurfing/backend](https://github.com/seatsurfing/backend) - Seatsurfing Backend
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -207,6 +207,7 @@
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 
 ## Jinja 
 
