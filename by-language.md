@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [bouiboui/facebook-saved](https://github.com/bouiboui/facebook-saved) - Export saved links from Facebook
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application) - Simple yet powerful absence management software for small and medium size business (community edition)
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
@@ -295,6 +296,7 @@
 
 ## Python 
 
+- [JanisV/release-bot](https://github.com/JanisV/release-bot) - A Telegram bot that notifies you of new GitHub releases
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [googlefonts/Gulzar](https://github.com/googlefonts/Gulzar) - Nastaliq font
