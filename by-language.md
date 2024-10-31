@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [bespoken-cookbook/super-simple-audio-player](https://github.com/bespoken-cookbook/super-simple-audio-player) - :saxophone: Super Simple Audio Player Project for Getting Started
 - [bouiboui/facebook-saved](https://github.com/bouiboui/facebook-saved) - Export saved links from Facebook
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application) - Simple yet powerful absence management software for small and medium size business (community edition)
