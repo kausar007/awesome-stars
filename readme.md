@@ -219,6 +219,7 @@
 
 ## api 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api) - Free Quran API Service with 90+ different languages and 400+ translations
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -447,6 +448,7 @@
 
 ## docker 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -755,6 +757,7 @@
 
 ## json 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -906,6 +909,7 @@
 
 ## nextjs 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1084,6 +1088,7 @@
 
 ## postgresql 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1132,6 +1137,7 @@
 
 ## python 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [JanisV/release-bot](https://github.com/JanisV/release-bot) - A Telegram bot that notifies you of new GitHub releases
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -1182,6 +1188,7 @@
 
 ## react 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -1209,6 +1216,7 @@
 
 ## reactjs 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
@@ -1465,6 +1473,7 @@
 
 ## web 
 
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
