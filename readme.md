@@ -887,7 +887,7 @@
 ## music 
 
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
-- [MichaelSebero/Media-Tools](https://github.com/MichaelSebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
+- [michaelsebero/Media-Tools](https://github.com/michaelsebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 
 ## mysql 
@@ -1145,7 +1145,7 @@
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [MichaelSebero/Media-Tools](https://github.com/MichaelSebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
+- [michaelsebero/Media-Tools](https://github.com/michaelsebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
