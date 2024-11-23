@@ -970,6 +970,8 @@
 
 ## others 
 
+- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
+- [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map) - An open-source scratch-off style map to track your travels.
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [markrai/postbaby](https://github.com/markrai/postbaby) - a self-hosted version of postbaby.org!
 - [bespoken-cookbook/super-simple-audio-player](https://github.com/bespoken-cookbook/super-simple-audio-player) - :saxophone: Super Simple Audio Player Project for Getting Started
