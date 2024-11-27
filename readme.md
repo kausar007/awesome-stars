@@ -246,7 +246,7 @@
 
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OnsenUI/awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -611,7 +611,7 @@
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -917,7 +917,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -1198,7 +1198,7 @@
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [noodlapp/noodl](https://github.com/noodlapp/noodl) - Noodl is a low code platform for creating full stack web applications
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1222,7 +1222,7 @@
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 
@@ -1386,7 +1386,7 @@
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 The crowdsourced dictionary for developers. Find definitions for technical terms, programming jargon, and more!
 - [muenzpraeger/eleventy-chirpy-blog-template](https://github.com/muenzpraeger/eleventy-chirpy-blog-template) - Blog template for 11ty based on Chirpy UX
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a lightweight, flat-file CMS designed for simple, fast, and flexible website and eBook creation using Markdown.
