@@ -69,6 +69,7 @@
 
 ## CSS 
 
+- [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
 - [markrai/postbaby](https://github.com/markrai/postbaby) - a self-hosted version of postbaby.org!
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -164,6 +165,7 @@
 
 ## JavaScript 
 
+- [scribeocr/scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 - [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map) - An open-source scratch-off style map to track your travels.
 - [bespoken-cookbook/super-simple-audio-player](https://github.com/bespoken-cookbook/super-simple-audio-player) - :saxophone: Super Simple Audio Player Project for Getting Started
 - [bouiboui/facebook-saved](https://github.com/bouiboui/facebook-saved) - Export saved links from Facebook
@@ -416,6 +418,7 @@
 
 ## TypeScript 
 
+- [audioling/audioling](https://github.com/audioling/audioling) - 
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
