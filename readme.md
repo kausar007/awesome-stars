@@ -831,7 +831,7 @@
 
 ## machine-learning 
 
-- [neonwatty/meme_search](https://github.com/neonwatty/meme_search) - Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.  Find funny fast.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - A locally hostable Meme Search Engine written in Python and Ruby.  Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1151,6 +1151,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - A locally hostable Meme Search Engine written in Python and Ruby.  Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [michaelsebero/Media-Tools](https://github.com/michaelsebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
@@ -1253,6 +1254,7 @@
 
 ## ruby 
 
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - A locally hostable Meme Search Engine written in Python and Ruby.  Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## rust 
