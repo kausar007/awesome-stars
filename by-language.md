@@ -227,7 +227,7 @@
 ## Jupyter Notebook 
 
 - [ahmedHanzala/urdu-tts](https://github.com/ahmedHanzala/urdu-tts) - An open source urdu/hindi text-to-speech system with voice cloning capabilities
-- [neonwatty/meme_search](https://github.com/neonwatty/meme_search) - Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.  Find funny fast.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - A locally hostable Meme Search Engine written in Python and Ruby.  Index your memes by their content and text, making them easily retrievable for your meme warfare pleasures.
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
