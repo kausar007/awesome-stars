@@ -456,7 +456,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -835,7 +835,7 @@
 
 ## machine-learning 
 
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -893,7 +893,7 @@
 ## music 
 
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
-- [michaelsebero/Media-Tools](https://github.com/michaelsebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
+- [Michael-Sebero/Media-Tools](https://github.com/Michael-Sebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 
 ## mysql 
@@ -1156,10 +1156,10 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [michaelsebero/Media-Tools](https://github.com/michaelsebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
+- [Michael-Sebero/Media-Tools](https://github.com/Michael-Sebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -1260,7 +1260,7 @@
 
 ## ruby 
 
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## rust 
@@ -1298,7 +1298,7 @@
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
