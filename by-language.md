@@ -229,7 +229,7 @@
 ## Jupyter Notebook 
 
 - [ahmedHanzala/urdu-tts](https://github.com/ahmedHanzala/urdu-tts) - An open source urdu/hindi text-to-speech system with voice cloning capabilities
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
@@ -423,6 +423,7 @@
 
 ## TypeScript 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer
 - [thestonechat/habits-sh](https://github.com/thestonechat/habits-sh) - A simple, convenient habit tracker with cross device sync
