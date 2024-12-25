@@ -463,7 +463,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -846,7 +846,7 @@
 
 ## machine-learning 
 
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -868,6 +868,7 @@
 
 ## markdown 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast and minimal; web-based Markdown notes app.
@@ -926,6 +927,7 @@
 
 ## nextjs 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -977,6 +979,7 @@
 
 ## openai 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 
@@ -1168,7 +1171,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Michael-Sebero/Media-Tools](https://github.com/Michael-Sebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
@@ -1214,6 +1217,7 @@
 
 ## react 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick An open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [shirEinav/Tripper](https://github.com/shirEinav/Tripper) - Interactive scratch map that allows users to track their travels
@@ -1273,7 +1277,6 @@
 
 ## ruby 
 
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## rust 
@@ -1305,6 +1308,7 @@
 
 ## self-hosted 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer
 - [JanisV/release-bot](https://github.com/JanisV/release-bot) - A Telegram bot that notifies you of new GitHub releases
@@ -1313,7 +1317,7 @@
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
