@@ -92,7 +92,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [KyleKun/one_second_diary](https://github.com/KyleKun/one_second_diary) - Minimalist video diary app.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter
 - [roughike/inKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
 
@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [jbellue/elektu](https://github.com/jbellue/elektu) - A small page to help select someone from a group
 - [shirEinav/Tripper](https://github.com/shirEinav/Tripper) - Interactive scratch map that allows users to track their travels
 - [oppiliappan/lurker](https://github.com/oppiliappan/lurker) - selfhostable, read-only reddit client
 - [scribeocr/scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
