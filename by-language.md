@@ -113,7 +113,7 @@
 ## Go 
 
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
-- [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Seatsurfing Desk Booking
+- [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Seatsurfing Desk Sharing
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
