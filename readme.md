@@ -55,6 +55,7 @@
 - [elixir](#elixir)
 - [ember](#ember)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -528,6 +529,10 @@
 ## express 
 
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+
+## facebook 
+
+- [bouiboui/facebook-saved](https://github.com/bouiboui/facebook-saved) - Export saved links from Facebook
 
 ## finance 
 
