@@ -235,7 +235,6 @@
 ## Jupyter Notebook 
 
 - [ahmedHanzala/urdu-tts](https://github.com/ahmedHanzala/urdu-tts) - An open source urdu/hindi text-to-speech system with voice cloning capabilities
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
@@ -374,6 +373,7 @@
 ## Ruby 
 
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Location History (Google Maps Timeline)
+- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
