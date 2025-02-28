@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
