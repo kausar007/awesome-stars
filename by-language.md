@@ -153,6 +153,7 @@
 - [casualwriter/casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) - Markdown-as-blog: Build blog site by markdown files.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [fangj/friends](https://github.com/fangj/friends) - Friends Transcripts
+- [impallari/Libre-Baskerville](https://github.com/impallari/Libre-Baskerville) - Libre Baskerville Fonts
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [apilayer/geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.
@@ -282,7 +283,6 @@
 - [mmastrac/brew-a-coffee-demo](https://github.com/mmastrac/brew-a-coffee-demo) - Demo repo for a Github Action that brews coffee (simulator only)
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
 - [sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss) - A list of open source projects with links to contribute or donate.
-- [impallari/Libre-Baskerville](https://github.com/impallari/Libre-Baskerville) - Libre Baskerville Fonts
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [revolution-model/introduction](https://github.com/revolution-model/introduction) - 
