@@ -75,6 +75,7 @@
 
 ## CSS 
 
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image compressor that runs in your browser.
 - [markrai/postbaby](https://github.com/markrai/postbaby) - a self-hosted version of postbaby.org!
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
