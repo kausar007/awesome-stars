@@ -29,6 +29,7 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
@@ -278,7 +279,6 @@
 - [davidz-yt/eink-desk-display](https://github.com/davidz-yt/eink-desk-display) - I made this E-ink display for my computer desk setup as a Always On display
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [OnsenUI/awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
-- [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api) - Free Quran API Service with 90+ different languages and 400+ translations
@@ -319,6 +319,10 @@
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [WillyJimmyDev/simple-quiz](https://github.com/WillyJimmyDev/simple-quiz) - A simple quiz administration written in PHP with a MySQL backend. Uses Bootstrap 3 and Slim PHP micro framework
 - [J7mbo/twitter-api-php](https://github.com/J7mbo/twitter-api-php) - The simplest PHP Wrapper for Twitter API v1.1 calls
+
+## PowerShell 
+
+- [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 
 ## Pug 
 
@@ -445,7 +449,7 @@
 
 ## TypeScript 
 
-- [ajnart/docker-compose-maker](https://github.com/ajnart/docker-compose-maker) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
+- [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [SaiHtun/timesync](https://github.com/SaiHtun/timesync) - World Time Buddy Clone ( WIP )
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
