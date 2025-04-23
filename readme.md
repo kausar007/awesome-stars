@@ -158,6 +158,7 @@
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -1516,6 +1517,10 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [hankhank10/loglink-server](https://github.com/hankhank10/loglink-server) - Send content from mobile apps to Logseq
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
+
+## telegram-bot 
+
+- [JanisV/release-bot](https://github.com/JanisV/release-bot) - A Telegram bot that notifies you of new GitHub releases
 
 ## tensorflow 
 
