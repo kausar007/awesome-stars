@@ -190,7 +190,7 @@
 - [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map) - An open-source scratch-off style map to track your travels.
 - [bespoken-cookbook/super-simple-audio-player](https://github.com/bespoken-cookbook/super-simple-audio-player) - :saxophone: Super Simple Audio Player Project for Getting Started
 - [bouiboui/facebook-saved](https://github.com/bouiboui/facebook-saved) - Export saved links from Facebook
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application) - Simple yet powerful absence management software for small and medium size business (community edition)
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
