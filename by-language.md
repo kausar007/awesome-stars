@@ -453,6 +453,7 @@
 
 ## TypeScript 
 
+- [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
