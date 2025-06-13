@@ -89,6 +89,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [jenkins](#jenkins)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -844,6 +845,10 @@
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
 - [dyndna/lanyon-plus](https://github.com/dyndna/lanyon-plus) - Based on lanyon - A content-first, sliding sidebar theme for Jekyll. Demo at
+
+## jenkins 
+
+- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 
 ## js 
 
