@@ -64,6 +64,7 @@
 
 ## C++ 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [Tablecruncher/tablecruncher](https://github.com/Tablecruncher/tablecruncher) - A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
