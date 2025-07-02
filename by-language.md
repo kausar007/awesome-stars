@@ -236,6 +236,7 @@
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+- [cloverleaf/web](https://github.com/cloverleaf/web) - Cloverleaf is a free, open source app to replace your password manager without storing your passwords anywhere.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -421,7 +422,6 @@
 
 ## SCSS 
 
-- [cloverleaf/web](https://github.com/cloverleaf/web) - Cloverleaf is a free, open source app to replace your password manager without storing your passwords anywhere.
 - [johno/pixyll](https://github.com/johno/pixyll) - A simple, beautiful Jekyll theme that's mobile first
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
 
