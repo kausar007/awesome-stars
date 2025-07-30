@@ -473,6 +473,7 @@
 
 ## TypeScript 
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [LukeGus/Dashix](https://github.com/LukeGus/Dashix) - A public website offering a suite of tools for self-hosters to build Docker compose files, configs, scheduled tasks, and more with ease.
