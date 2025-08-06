@@ -178,6 +178,7 @@
 
 ## Java 
 
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -345,6 +346,7 @@
 
 ## Python 
 
+- [MorrisonWill/awesomeindex](https://github.com/MorrisonWill/awesomeindex) - Awesome Repositories Search Engine
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [prismatex/python-manager](https://github.com/prismatex/python-manager) - Web-based Python script manager with real-time monitoring, logging, and control
