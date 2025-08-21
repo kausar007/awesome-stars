@@ -191,6 +191,7 @@
 
 ## JavaScript 
 
+- [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [indico/newdle](https://github.com/indico/newdle) - Open Source Collaborative enterprise meeting scheduling tool.
 - [saroff03/metro-map](https://github.com/saroff03/metro-map) - 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
