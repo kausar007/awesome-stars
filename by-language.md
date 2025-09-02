@@ -79,6 +79,7 @@
 
 ## CSS 
 
+- [PhoenixFury0000/Clock](https://github.com/PhoenixFury0000/Clock) - A clock interface.
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [markrai/postbaby](https://github.com/markrai/postbaby) - a self-hosted version of postbaby.org!
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
@@ -349,6 +350,7 @@
 
 ## Python 
 
+- [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [MorrisonWill/awesomeindex](https://github.com/MorrisonWill/awesomeindex) - Awesome Repositories Search Engine
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
