@@ -1165,6 +1165,7 @@
 
 ## others 
 
+- [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
 - [PhoenixFury0000/Clock](https://github.com/PhoenixFury0000/Clock) - A clock interface.
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
