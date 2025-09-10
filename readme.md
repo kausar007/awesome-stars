@@ -385,7 +385,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
-- [humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt) - tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks
+- [humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt) - A command-line tool that allows you to quickly and easily set up project templates for various programming languages and frameworks
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -1369,7 +1369,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt) - tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks
+- [humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt) - A command-line tool that allows you to quickly and easily set up project templates for various programming languages and frameworks
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## pwa 
@@ -1521,7 +1521,7 @@
 
 - [w4/rgit](https://github.com/w4/rgit) - 🏯 blazingly fast web frontend for git repositories
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt) - tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks
+- [humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt) - A command-line tool that allows you to quickly and easily set up project templates for various programming languages and frameworks
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
