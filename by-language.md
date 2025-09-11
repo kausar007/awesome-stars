@@ -79,7 +79,7 @@
 
 ## CSS 
 
-- [PhoenixFury0000/Clock](https://github.com/PhoenixFury0000/Clock) - A clock interface.
+- [mikey177013/Clock](https://github.com/mikey177013/Clock) - A clock interface.
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [markrai/postbaby](https://github.com/markrai/postbaby) - a self-hosted version of postbaby.org!
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
@@ -127,6 +127,7 @@
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -482,6 +483,7 @@
 
 ## TypeScript 
 
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [importcsv/importcsv](https://github.com/importcsv/importcsv) - AI-native Data Onboarding Platform. Open-source alternative to Flatfile and OneSchema.
 - [fccview/rwMarkable](https://github.com/fccview/rwMarkable) - A simple, self-hosted app for your checklists and notes.
@@ -505,7 +507,6 @@
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer
 - [thestonechat/habits-sh](https://github.com/thestonechat/habits-sh) - A simple, convenient habit tracker with cross device sync
 - [audioling/audioling](https://github.com/audioling/audioling) - Audio player with a focus on self-hosted music server support
-- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
