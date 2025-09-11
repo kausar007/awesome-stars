@@ -28,6 +28,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cms](#cms)
@@ -378,6 +379,10 @@
 ## chrome 
 
 - [bouiboui/facebook-saved](https://github.com/bouiboui/facebook-saved) - Export saved links from Facebook
+
+## chrome-extension 
+
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
 ## cli 
 
@@ -848,6 +853,7 @@
 
 ## javascript 
 
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -1173,7 +1179,7 @@
 
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
-- [PhoenixFury0000/Clock](https://github.com/PhoenixFury0000/Clock) - A clock interface.
+- [mikey177013/Clock](https://github.com/mikey177013/Clock) - A clock interface.
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
 - [importcsv/importcsv](https://github.com/importcsv/importcsv) - AI-native Data Onboarding Platform. Open-source alternative to Flatfile and OneSchema.
 - [fccview/rwMarkable](https://github.com/fccview/rwMarkable) - A simple, self-hosted app for your checklists and notes.
@@ -1736,6 +1742,7 @@
 
 ## typescript 
 
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
