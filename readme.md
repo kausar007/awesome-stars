@@ -1032,7 +1032,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast and minimal; web-based Markdown notes app.
+- [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast, web-based Markdown notes app.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -1178,6 +1178,7 @@
 
 ## others 
 
+- [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG) - A More Powerful Typing SVG Generator—multi-line & blank-space formatting, multiple cursor styles, customizable delete speed, and more.
 - [LibreBooking/app](https://github.com/LibreBooking/app) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
