@@ -121,6 +121,7 @@
 - [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -214,6 +215,7 @@
 
 ## android 
 
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [screenlite/web-kiosk](https://github.com/screenlite/web-kiosk) - 
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more
@@ -700,6 +702,7 @@
 
 ## github 
 
+- [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG) - A More Powerful Typing SVG Generator—multi-line & blank-space formatting, multiple cursor styles, customizable delete speed, and more.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 
@@ -1147,6 +1150,11 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [dinubs/jam-api](https://github.com/dinubs/jam-api) - Parse web pages using CSS query selectors
 
+## obsidian 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+
 ## obsidian-md 
 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -1180,7 +1188,6 @@
 
 ## others 
 
-- [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG) - A More Powerful Typing SVG Generator—multi-line & blank-space formatting, multiple cursor styles, customizable delete speed, and more.
 - [LibreBooking/app](https://github.com/LibreBooking/app) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
@@ -1823,6 +1830,7 @@
 
 ## website 
 
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
