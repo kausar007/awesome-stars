@@ -195,6 +195,7 @@
 
 ## ai 
 
+- [importcsv/importcsv](https://github.com/importcsv/importcsv) - Open-source CSV Importer. Alternative to Flatfile and OneSchema.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
@@ -1216,7 +1217,6 @@
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
 - [mikey177013/Clock](https://github.com/mikey177013/Clock) - A clock interface.
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
-- [importcsv/importcsv](https://github.com/importcsv/importcsv) - AI-native Data Onboarding Platform. Open-source alternative to Flatfile and OneSchema.
 - [fccview/rwMarkable](https://github.com/fccview/rwMarkable) - A simple, self-hosted app for your checklists and notes.
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
