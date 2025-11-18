@@ -1237,6 +1237,8 @@
 
 ## others 
 
+- [sparkison/m3u-proxy](https://github.com/sparkison/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management.
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [cpvalente/ontime](https://github.com/cpvalente/ontime) - Free, open-source time keeping for live events
 - [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - 
