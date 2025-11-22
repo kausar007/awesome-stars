@@ -1252,7 +1252,7 @@
 - [fccview/jotty](https://github.com/fccview/jotty) - A simple, self-hosted app for your checklists and notes.
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
-- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Kotlin (JVM) and Java applications.
+- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [rishikanthc/zendo](https://github.com/rishikanthc/zendo) - Self-hosted minimalistic task manager
 - [JimWardle/markdownToChecklist](https://github.com/JimWardle/markdownToChecklist) - simple web app that converts mark down into an actionable list
 - [pickles4evaaaa/mybibliotheca](https://github.com/pickles4evaaaa/mybibliotheca) - Track your reading habits, log books, and visualize your library—all in your own space.
