@@ -499,6 +499,7 @@
 
 ## TypeScript 
 
+- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual automation builder that lets you create, schedule, and run automations with secure credential management
 - [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - A modern shift management application built with Next.js and SQLite. BetterShift helps you organize and manage work shifts across multiple calendars with customizable presets, color coding, password p
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
