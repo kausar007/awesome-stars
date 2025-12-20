@@ -353,7 +353,7 @@
 - [devops-israel/aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 
 ## azure 
 
@@ -361,6 +361,7 @@
 
 ## backend 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 
@@ -636,7 +637,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [samoshkin/docker-letsencrypt-certgen](https://github.com/samoshkin/docker-letsencrypt-certgen) - Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion
 
 ## documentation 
@@ -762,7 +763,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 
@@ -802,6 +803,7 @@
 
 ## graphql 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 
@@ -1034,7 +1036,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 
 ## language 
 
@@ -1061,7 +1063,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [TheWeirdDev/Bluetooth_Headset_Battery_Level](https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level) - A python script to get battery level from Bluetooth headsets
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -1149,13 +1151,14 @@
 
 ## mongodb 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [nanawel/our-shopping-list](https://github.com/nanawel/our-shopping-list) - OSL is a simple shared list web-application based on Node and VueJS. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively.
 
 ## monitoring 
 
 - [prismatex/python-manager](https://github.com/prismatex/python-manager) - Web-based Python script manager with real-time monitoring, logging, and control
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [IamTheFij/minitor](https://github.com/IamTheFij/minitor) - A minimal monitoring system (Mirror)
 
@@ -1171,13 +1174,14 @@
 
 ## mysql 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 
 ## natural-language-processing 
 
@@ -1185,6 +1189,7 @@
 
 ## nestjs 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
@@ -1281,9 +1286,10 @@
 
 ## others 
 
+- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [clip-fish/web](https://github.com/clip-fish/web) - 
 - [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual automation builder that lets you create, schedule, and run automations with secure credential management
-- [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - A modern shift management application built with Next.js and SQLite. BetterShift helps you organize and manage work shifts across multiple calendars with customizable presets, color coding, password p
+- [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
 - [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - The Django backend of the Revel event platform project
 - [sparkison/m3u-proxy](https://github.com/sparkison/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
@@ -1295,7 +1301,7 @@
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
 - [mikey177013/Clock](https://github.com/mikey177013/Clock) - A clock interface.
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
-- [fccview/jotty](https://github.com/fccview/jotty) - A simple, self-hosted app for your checklists and notes.
+- [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
@@ -1433,6 +1439,7 @@
 
 ## postgresql 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
@@ -1856,7 +1863,7 @@
 ## terraform 
 
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
-- [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
+- [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 
 ## testing 
 
