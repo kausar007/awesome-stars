@@ -301,6 +301,7 @@
 
 ## Others 
 
+- [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [dth99/DevOps-Learn-By-Doing](https://github.com/dth99/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [davidz-yt/eink-desk-display](https://github.com/davidz-yt/eink-desk-display) - I made this E-ink display for my computer desk setup as a Always On display
@@ -497,10 +498,11 @@
 
 ## TypeScript 
 
+- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
 - [clip-fish/web](https://github.com/clip-fish/web) - 
 - [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual automation builder that lets you create, schedule, and run automations with secure credential management
-- [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - A modern shift management application built with Next.js and SQLite. BetterShift helps you organize and manage work shifts across multiple calendars with customizable presets, color coding, password p
+- [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self hosted dashboard and organizer for Excalidraw with live collaboration.
@@ -513,7 +515,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [importcsv/importcsv](https://github.com/importcsv/importcsv) - Open-source CSV Importer. Alternative to Flatfile and OneSchema.
-- [fccview/jotty](https://github.com/fccview/jotty) - A simple, self-hosted app for your checklists and notes.
+- [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
