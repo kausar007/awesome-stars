@@ -114,6 +114,7 @@
 
 ## Dockerfile 
 
+- [TheRealGramdalf/onetagger-docker](https://github.com/TheRealGramdalf/onetagger-docker) - Unofficial docker image for OneTagger
 - [thibmaek/kid3-docker](https://github.com/thibmaek/kid3-docker) - 🐳 Kid3 running in Docker via X11 server
 - [pierrecdn/phpipam](https://github.com/pierrecdn/phpipam) - phpIPAM Docker image
 
@@ -159,6 +160,7 @@
 
 ## HTML 
 
+- [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - Continuation of NetherSX2 based on AetherSX2 3668
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One HTML file that you can open anywhere to view and edit your network diagrams, from air gapped documentation to live status monitoring and custom icons for both corporate and home lab topologies, wo
 - [JimWardle/markdownToChecklist](https://github.com/JimWardle/markdownToChecklist) - simple web app that converts mark down into an actionable list
@@ -444,6 +446,7 @@
 
 ## Rust 
 
+- [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
