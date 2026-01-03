@@ -130,6 +130,7 @@
 
 ## Go 
 
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -139,6 +140,7 @@
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
@@ -507,6 +509,7 @@
 
 ## TypeScript 
 
+- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
 - [clip-fish/web](https://github.com/clip-fish/web) - 
@@ -558,7 +561,6 @@
 - [rishikanthc/markopolis](https://github.com/rishikanthc/markopolis) - Markdown Programmable Interface
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast, web-based Markdown notes app.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
