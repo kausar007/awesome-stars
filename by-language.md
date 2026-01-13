@@ -165,7 +165,7 @@
 
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - Continuation of NetherSX2 based on AetherSX2 3668
-- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening adds live status
+- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, sports plays, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening ad
 - [JimWardle/markdownToChecklist](https://github.com/JimWardle/markdownToChecklist) - simple web app that converts mark down into an actionable list
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
