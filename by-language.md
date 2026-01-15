@@ -512,6 +512,7 @@
 
 ## TypeScript 
 
+- [kugie-app/chalkboard.id](https://github.com/kugie-app/chalkboard.id) - Open source modern billiard hall management
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
