@@ -576,6 +576,7 @@
 
 ## design 
 
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
@@ -625,6 +626,7 @@
 
 ## docker 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
@@ -843,6 +845,7 @@
 
 ## hacktoberfest 
 
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [pressbooks/pressbooks](https://github.com/pressbooks/pressbooks) - Open publishing. Open web. Open source.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
@@ -868,7 +871,7 @@
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [gadingnst/quran-api](https://github.com/gadingnst/quran-api) - Simple Quran API & Database with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
@@ -1090,6 +1093,7 @@
 
 ## linux 
 
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [deepakkumar-platform/DevOps-Learn-By-Doing](https://github.com/deepakkumar-platform/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
@@ -1120,7 +1124,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [noodlapp/noodl](https://github.com/noodlapp/noodl) - Noodl is a low code platform for creating full stack web applications
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -1141,6 +1145,7 @@
 
 ## macos 
 
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [Tablecruncher/tablecruncher](https://github.com/Tablecruncher/tablecruncher) - A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros.
@@ -1157,6 +1162,7 @@
 
 ## markdown 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
@@ -1266,7 +1272,7 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -1296,6 +1302,7 @@
 
 ## obsidian 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
@@ -1305,6 +1312,7 @@
 
 ## open-source 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
@@ -1498,7 +1506,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection) - Koillection is a self-hosted service allowing users to manage any kind of collections.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -1508,6 +1516,7 @@
 
 ## privacy 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -1520,6 +1529,7 @@
 
 ## productivity 
 
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
@@ -1568,6 +1578,8 @@
 
 ## python 
 
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [MorrisonWill/awesomeindex](https://github.com/MorrisonWill/awesomeindex) - Awesome Repositories Search Engine
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -1698,7 +1710,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [gadingnst/quran-api](https://github.com/gadingnst/quran-api) - Simple Quran API & Database with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 
@@ -1739,6 +1751,7 @@
 
 ## self-hosted 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self hosted dashboard and organizer for Excalidraw with live collaboration.
@@ -1848,7 +1861,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## stable-diffusion 
 
