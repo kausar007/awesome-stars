@@ -1359,7 +1359,7 @@
 - [clip-fish/web](https://github.com/clip-fish/web) - 
 - [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
 - [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - The Django backend of the Revel event platform project
-- [sparkison/m3u-proxy](https://github.com/sparkison/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
+- [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - 
