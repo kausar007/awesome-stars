@@ -381,7 +381,7 @@
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - The Django backend of the Revel event platform project
-- [sparkison/m3u-proxy](https://github.com/sparkison/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
+- [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [verumIgnis/busmapgen](https://github.com/verumIgnis/busmapgen) - A python script to automatically generate a bus map of the UK
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
