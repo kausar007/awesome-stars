@@ -166,7 +166,6 @@
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - Continuation of NetherSX2 based on AetherSX2 3668
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, sports plays, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening ad
-- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [JimWardle/markdownToChecklist](https://github.com/JimWardle/markdownToChecklist) - simple web app that converts mark down into an actionable list
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
@@ -348,7 +347,7 @@
 
 - [pressbooks/pressbooks](https://github.com/pressbooks/pressbooks) - Open publishing. Open web. Open source.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
-- [LibreBooking/app](https://github.com/LibreBooking/app) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
+- [LibreBooking/librebooking](https://github.com/LibreBooking/librebooking) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -537,6 +536,7 @@
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self hosted dashboard and organizer for Excalidraw with live collaboration.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
+- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [cpvalente/ontime](https://github.com/cpvalente/ontime) - Free, open-source time keeping for live events
 - [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG) - A More Powerful Typing SVG Generator—multi-line & blank-space formatting, multiple cursor styles, customizable delete speed, and more.
