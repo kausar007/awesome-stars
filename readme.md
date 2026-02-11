@@ -1348,6 +1348,7 @@
 
 ## others 
 
+- [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [kugie-app/chalkboard.id](https://github.com/kugie-app/chalkboard.id) - Open source modern billiard hall management
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
