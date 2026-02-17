@@ -519,6 +519,7 @@
 
 ## TypeScript 
 
+- [jofoerster/habitsync](https://github.com/jofoerster/habitsync) - Self hosted Habit Tracker featuring goals and challenges with friends
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Rethinking the User Interface of AI
