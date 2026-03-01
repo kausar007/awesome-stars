@@ -219,7 +219,7 @@
 
 ## ai 
 
-- [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Rethinking the User Interface of AI
+- [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Study and research with your docs, media, and AI in one place
 - [importcsv/importcsv](https://github.com/importcsv/importcsv) - Open-source CSV Importer for React
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
