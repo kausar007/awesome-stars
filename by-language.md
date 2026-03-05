@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [Tablecruncher/tablecruncher](https://github.com/Tablecruncher/tablecruncher) - A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros.
@@ -209,7 +210,7 @@
 ## JavaScript 
 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - Dynamically generated animated SVGs for GitHub READMEs
+- [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - 🐦Dynamically generated animated SVGs for GitHub READMEs
 - [risan/quran-json](https://github.com/risan/quran-json) - Quran text and translations in JSON format.
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
@@ -294,6 +295,8 @@
 
 ## Kotlin 
 
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+- [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [screenlite/web-kiosk](https://github.com/screenlite/web-kiosk) - 
 - [bayang/jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
@@ -467,7 +470,7 @@
 ## Rust 
 
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
-- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
+- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
@@ -487,6 +490,7 @@
 
 ## Shell 
 
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -513,6 +517,7 @@
 
 ## Swift 
 
+- [everettjf/ScriptWidget](https://github.com/everettjf/ScriptWidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
@@ -528,6 +533,7 @@
 
 ## TypeScript 
 
+- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) - Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [jofoerster/habitsync](https://github.com/jofoerster/habitsync) - Self hosted Habit Tracker featuring goals and challenges with friends
