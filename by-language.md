@@ -166,6 +166,7 @@
 
 ## HTML 
 
+- [oldany/dropmind](https://github.com/oldany/dropmind) - Self-hosted memory cache for digital thoughts
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - Continuation of NetherSX2 based on AetherSX2 3668
@@ -209,6 +210,7 @@
 
 ## JavaScript 
 
+- [viclafouch/meme-studio](https://github.com/viclafouch/meme-studio) - 📌 A complete and fast website building in Next.js for creating and sharing "internet memes"
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - 🐦Dynamically generated animated SVGs for GitHub READMEs
 - [risan/quran-json](https://github.com/risan/quran-json) - Quran text and translations in JSON format.
@@ -252,7 +254,7 @@
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [gadingnst/quran-api](https://github.com/gadingnst/quran-api) - Simple Quran API & Database with Indonesia Tafsir and media audio (murrotal) Syekh. Mishary Rashid Alafasy
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -356,6 +358,7 @@
 
 ## PHP 
 
+- [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [pressbooks/pressbooks](https://github.com/pressbooks/pressbooks) - Open publishing. Open web. Open source.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [LibreBooking/librebooking](https://github.com/LibreBooking/librebooking) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
@@ -388,6 +391,9 @@
 
 ## Python 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -533,6 +539,9 @@
 
 ## TypeScript 
 
+- [opencom-org/opencom](https://github.com/opencom-org/opencom) - Monorepo for Opencom - Open Source customer engagement platform. Self-host or use the hosted version.
+- [sujjeee/chill-guy](https://github.com/sujjeee/chill-guy) - Chill Guy Meme Generator
+- [axshae/snapsortr](https://github.com/axshae/snapsortr) - Snapsortr is a high-performance web tool for quickly reviewing and sorting thousands of images. Select a folder, browse images with a fast viewer, and mark photos as Take or Drop while preserving the 
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) - Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
