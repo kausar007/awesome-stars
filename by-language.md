@@ -560,7 +560,7 @@
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
 - [clip-fish/web](https://github.com/clip-fish/web) - 
-- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual tool to build, schedule, and execute automations—securely managing credentials
+- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop application to build, schedule, and execute automations—securely managing credentials
 - [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
