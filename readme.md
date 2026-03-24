@@ -216,7 +216,7 @@
 
 ## agent 
 
-- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual tool to build, schedule, and execute automations—securely managing credentials
+- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop application to build, schedule, and execute automations—securely managing credentials
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
 ## ai 
@@ -303,7 +303,7 @@
 
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
-- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual tool to build, schedule, and execute automations—securely managing credentials
+- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop application to build, schedule, and execute automations—securely managing credentials
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
@@ -328,7 +328,7 @@
 ## automation 
 
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
-- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A visual tool to build, schedule, and execute automations—securely managing credentials
+- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop application to build, schedule, and execute automations—securely managing credentials
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [biolds/sosse](https://github.com/biolds/sosse) - Selenium Open Source Search Engine & crawler
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
