@@ -1410,6 +1410,7 @@
 
 ## others 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [vamshi4001/saas-clawds](https://github.com/vamshi4001/saas-clawds) - 
 - [opencom-org/opencom](https://github.com/opencom-org/opencom) - Monorepo for Opencom - Open Source customer engagement platform. Self-host or use the hosted version.
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
