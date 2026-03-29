@@ -541,7 +541,7 @@
 
 ## TypeScript 
 
-- [mauriceboe/NOMAD](https://github.com/mauriceboe/NOMAD) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [opencom-org/opencom](https://github.com/opencom-org/opencom) - Monorepo for Opencom - Open Source customer engagement platform. Self-host or use the hosted version.
 - [sujjeee/chill-guy](https://github.com/sujjeee/chill-guy) - Chill Guy Meme Generator
