@@ -1416,6 +1416,7 @@
 
 ## others 
 
+- [PanSalut/Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [0xs8n/metafaker](https://github.com/0xs8n/metafaker) - 
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
