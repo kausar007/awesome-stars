@@ -563,7 +563,7 @@
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [clip-fish/web](https://github.com/clip-fish/web) - 
 - [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally.
 - [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
