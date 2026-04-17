@@ -553,7 +553,7 @@
 - [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) - Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [jofoerster/habitsync](https://github.com/jofoerster/habitsync) - Self hosted Habit Tracker featuring goals and challenges with friends
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Study and research with your docs, media, and AI in one place
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
