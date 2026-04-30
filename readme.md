@@ -659,7 +659,7 @@
 
 ## docker 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted flight tracker with interactive 2D/3D maps, 58 achievements, boarding-pass scanner, email/PDF import, and optional local LLM parsing — AGPL-3.0-or-later.
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [oldany/dropmind](https://github.com/oldany/dropmind) - Self-hosted capture layer to save anything from anywhere.
@@ -1359,7 +1359,7 @@
 
 ## nodejs 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted flight tracker with interactive 2D/3D maps, 58 achievements, boarding-pass scanner, email/PDF import, and optional local LLM parsing — AGPL-3.0-or-later.
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1759,7 +1759,7 @@
 
 ## react 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted flight tracker with interactive 2D/3D maps, 58 achievements, boarding-pass scanner, email/PDF import, and optional local LLM parsing — AGPL-3.0-or-later.
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
@@ -1805,7 +1805,6 @@
 ## reactjs 
 
 - [viclafouch/meme-studio](https://github.com/viclafouch/meme-studio) - 📌 A complete and fast website building in Next.js for creating and sharing "internet memes"
-- [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) - A self-hosted, open-source quiz platform for smaller events.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [shirEinav/Tripper](https://github.com/shirEinav/Tripper) - Interactive scratch map that allows users to track their travels
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
@@ -1866,13 +1865,12 @@
 
 ## self-hosted 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted flight tracker with interactive 2D/3D maps, 58 achievements, boarding-pass scanner, email/PDF import, and optional local LLM parsing — AGPL-3.0-or-later.
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [oldany/dropmind](https://github.com/oldany/dropmind) - Self-hosted capture layer to save anything from anywhere.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
-- [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) - A self-hosted, open-source quiz platform for smaller events.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [jofoerster/habitsync](https://github.com/jofoerster/habitsync) - Self hosted Habit Tracker featuring goals and challenges with friends
@@ -2090,8 +2088,7 @@
 
 ## typescript 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted flight tracker with interactive 2D/3D maps, 58 achievements, boarding-pass scanner, email/PDF import, and optional local LLM parsing — AGPL-3.0-or-later.
-- [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) - A self-hosted, open-source quiz platform for smaller events.
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
