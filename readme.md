@@ -261,6 +261,8 @@
 
 ## android 
 
+- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
