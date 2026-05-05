@@ -548,7 +548,7 @@
 
 ## TypeScript 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
