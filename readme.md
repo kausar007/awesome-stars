@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -219,6 +220,12 @@
 ## agent 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+
+## agents 
+
+- [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 
 ## ai 
 
@@ -665,7 +672,7 @@
 
 ## docker 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [oldany/dropmind](https://github.com/oldany/dropmind) - Self-hosted capture layer to save anything from anywhere.
@@ -1369,7 +1376,7 @@
 
 ## nodejs 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1769,7 +1776,7 @@
 
 ## react 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
@@ -1876,7 +1883,7 @@
 
 ## self-hosted 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [oldany/dropmind](https://github.com/oldany/dropmind) - Self-hosted capture layer to save anything from anywhere.
@@ -2102,7 +2109,7 @@
 
 ## typescript 
 
-- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook for small households (1-10 users). Log flights (cruises in v2) manually, by boarding-pass scanner, or by email/PDF import via local LLM. Interactive 2D/3D maps, 58 achieveme
+- [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
