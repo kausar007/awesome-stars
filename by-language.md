@@ -558,7 +558,7 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [jofoerster/habitsync](https://github.com/jofoerster/habitsync) - Self hosted Habit Tracker featuring goals and challenges with friends
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Study and research with your docs, media, and AI in one place
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
