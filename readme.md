@@ -624,7 +624,7 @@
 
 ## developer-tools 
 
-- [abdosorour7/git-commands-cheatsheet](https://github.com/abdosorour7/git-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
+- [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -673,7 +673,7 @@
 
 ## docker 
 
-- [abdosorour7/git-commands-cheatsheet](https://github.com/abdosorour7/git-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
+- [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
@@ -852,7 +852,7 @@
 
 ## git 
 
-- [abdosorour7/git-commands-cheatsheet](https://github.com/abdosorour7/git-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
+- [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [w4/rgit](https://github.com/w4/rgit) - 🏯 blazingly fast web frontend for git repositories
