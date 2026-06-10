@@ -268,7 +268,7 @@
 
 ## android 
 
-- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android
+- [nethical6/curbox](https://github.com/nethical6/curbox) - Free App & Website Blocker for android
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
