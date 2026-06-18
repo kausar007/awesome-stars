@@ -268,7 +268,7 @@
 
 ## android 
 
-- [nethical6/curbox](https://github.com/nethical6/curbox) - Open Source App & Website Blocker for android
+- [nethical6/curbox](https://github.com/nethical6/curbox) - Free Open Source App & Website Blocker for android
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
@@ -862,7 +862,7 @@
 
 ## github 
 
-- [nethical6/curbox](https://github.com/nethical6/curbox) - Open Source App & Website Blocker for android
+- [nethical6/curbox](https://github.com/nethical6/curbox) - Free Open Source App & Website Blocker for android
 - [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG) - A More Powerful Typing SVG Generator—multi-line & blank-space formatting, multiple cursor styles, customizable delete speed, and more.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
