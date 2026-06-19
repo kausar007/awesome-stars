@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -301,7 +302,7 @@
 
 ## Kotlin 
 
-- [nethical6/curbox](https://github.com/nethical6/curbox) - Open Source App & Website Blocker for android
+- [nethical6/curbox](https://github.com/nethical6/curbox) - Free Open Source App & Website Blocker for android
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [SimonSchubert/YogaBase](https://github.com/SimonSchubert/YogaBase) - Yoga App
