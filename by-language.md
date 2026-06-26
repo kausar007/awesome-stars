@@ -154,7 +154,7 @@
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [alec-pinson/ip-whitelister](https://github.com/alec-pinson/ip-whitelister) - Login with AzureAD account and whitelist your IP against Cloud resources for 24 hours
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -303,7 +303,7 @@
 
 ## Kotlin 
 
-- [nethical6/curbox](https://github.com/nethical6/curbox) - Free Open Source App & Website Blocker for android
+- [curbox-app/curbox-android](https://github.com/curbox-app/curbox-android) - Free Open Source App & Website Blocker
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [SimonSchubert/YogaBase](https://github.com/SimonSchubert/YogaBase) - Yoga App
