@@ -155,7 +155,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [alec-pinson/ip-whitelister](https://github.com/alec-pinson/ip-whitelister) - Login with AzureAD account and whitelist your IP against Cloud resources for 24 hours
+- [alec-pinson/ip-whitelister-old](https://github.com/alec-pinson/ip-whitelister-old) - Login with AzureAD account and whitelist your IP against Cloud resources for 24 hours
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 
@@ -656,7 +656,7 @@
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - API datasource for grafana. Visualize data from JSON / CSV / TSV / XML / GraphQL endpoints
 - [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
