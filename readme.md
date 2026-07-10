@@ -215,6 +215,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
 
@@ -806,7 +807,7 @@
 ## flutter 
 
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
-- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - A Jellyfin music client for mobile
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [KyleKun/one_second_diary](https://github.com/KyleKun/one_second_diary) - Minimalist video diary app.
@@ -930,7 +931,7 @@
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [indico/newdle](https://github.com/indico/newdle) - Open Source Collaborative enterprise meeting scheduling tool.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - A Jellyfin music client for mobile
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
@@ -1311,9 +1312,8 @@
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
-- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - A Jellyfin music client for mobile
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
-- [Michael-Sebero/Media-Tools](https://github.com/Michael-Sebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 
@@ -1727,7 +1727,6 @@
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [Michael-Sebero/Media-Tools](https://github.com/Michael-Sebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [Lenochxd/WebDeck](https://github.com/Lenochxd/WebDeck) - The free stream deck alternative
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -2165,7 +2164,6 @@
 - [cpvalente/ontime](https://github.com/cpvalente/ontime) - Free, open-source time keeping for live events
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [Michael-Sebero/Media-Tools](https://github.com/Michael-Sebero/Media-Tools) - These python scripts help you work with videos, pictures and audio.
 - [MarmadileManteater/FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - A soft fork of FreeTube which brings it to Android (formerly FreeTubeCordova)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -2253,6 +2251,11 @@
 
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+## workflow 
+
+- [noodlapp/noodl](https://github.com/noodlapp/noodl) - Noodl is a low code platform for creating full stack web applications
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## youtube 
 
