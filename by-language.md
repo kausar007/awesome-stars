@@ -572,7 +572,7 @@
 - [kugie-app/chalkboard.id](https://github.com/kugie-app/chalkboard.id) - Open source modern billiard hall management
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - A complete Getting Things Done (GTD) productivity system for desktop and mobile.
+- [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [clip-fish/web](https://github.com/clip-fish/web) - 
