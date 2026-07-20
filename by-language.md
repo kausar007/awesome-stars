@@ -335,6 +335,7 @@
 
 ## Others 
 
+- [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography
 - [enfyra/enfyra](https://github.com/enfyra/enfyra) - Enfyra – an open-source, self-hosted BaaS with built-in clustering, letting you build fast, scale easily, and customize without limits.
 - [deepakkumar-platform/DevOps-Learn-By-Doing](https://github.com/deepakkumar-platform/DevOps-Learn-By-Doing) - From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory.
@@ -533,7 +534,6 @@
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [rishikanthc/zendo](https://github.com/rishikanthc/zendo) - Self-hosted minimalistic task manager
-- [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 
 ## Swift 
 
@@ -618,6 +618,7 @@
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
