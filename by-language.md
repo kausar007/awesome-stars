@@ -139,6 +139,7 @@
 ## Go 
 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [PanSalut/Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -174,7 +175,6 @@
 
 ## HTML 
 
-- [PanSalut/Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 - [oldany/dropmind](https://github.com/oldany/dropmind) - Self-hosted capture layer to save anything from anywhere.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
