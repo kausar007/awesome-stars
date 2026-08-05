@@ -305,6 +305,7 @@
 
 ## Kotlin 
 
+- [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [curbox-app/curbox-android](https://github.com/curbox-app/curbox-android) - Free Open Source App & Website Blocker
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
@@ -539,7 +540,7 @@
 
 ## Swift 
 
-- [everettjf/ScriptWidget](https://github.com/everettjf/ScriptWidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
