@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
@@ -219,6 +220,10 @@
 - [youtube](#youtube)
 - [zsh](#zsh)
 
+## 3d 
+
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+
 ## agent 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -270,6 +275,7 @@
 
 ## android 
 
+- [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [curbox-app/curbox-android](https://github.com/curbox-app/curbox-android) - Free Open Source App & Website Blocker
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
@@ -1140,6 +1146,7 @@
 
 ## kotlin 
 
+- [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [bayang/jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
@@ -1292,6 +1299,7 @@
 
 ## mcp 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1342,6 +1350,7 @@
 
 ## nextjs 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [sujjeee/chill-guy](https://github.com/sujjeee/chill-guy) - Chill Guy Meme Generator
 - [viclafouch/meme-studio](https://github.com/viclafouch/meme-studio) - 📌 A complete and fast website building in Next.js for creating and sharing "internet memes"
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -1454,7 +1463,6 @@
 - [PanSalut/Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [0xs8n/metafaker](https://github.com/0xs8n/metafaker) - 
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [vamshi4001/saas-clawds](https://github.com/vamshi4001/saas-clawds) - 
 - [opencom-org/opencom](https://github.com/opencom-org/opencom) - Monorepo for Opencom - Open Source customer engagement platform. Self-host or use the hosted version.
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
@@ -2038,7 +2046,7 @@
 
 ## swift 
 
-- [everettjf/ScriptWidget](https://github.com/everettjf/ScriptWidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
@@ -2046,7 +2054,7 @@
 
 ## swiftui 
 
-- [everettjf/ScriptWidget](https://github.com/everettjf/ScriptWidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 
 ## symfony 
@@ -2123,6 +2131,7 @@
 ## typescript 
 
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [Ralex91/Razzia](https://github.com/Ralex91/Razzia) - A self-hosted, open-source quiz platform for smaller events.
 - [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Study and research with your docs, media, and AI in one place
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
