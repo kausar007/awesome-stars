@@ -557,6 +557,7 @@
 
 ## TypeScript 
 
+- [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, shadcn/ui, and Supabase.
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
