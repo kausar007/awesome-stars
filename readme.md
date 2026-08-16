@@ -69,6 +69,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -238,6 +239,7 @@
 ## ai 
 
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Study and research, grounded in your sources
 - [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally.
 - [importcsv/importcsv](https://github.com/importcsv/importcsv) - Open-source CSV Importer for React
@@ -745,6 +747,10 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [unosquare/passcore](https://github.com/unosquare/passcore) - A self-service password management tool for Active Directory
 
+## dsh-plugin 
+
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+
 ## education 
 
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
@@ -1067,6 +1073,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - 🐦Dynamically generated animated SVGs for GitHub READMEs
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -2141,6 +2148,7 @@
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [Ralex91/Razzia](https://github.com/Ralex91/Razzia) - A self-hosted, open-source quiz platform for smaller events.
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ThinkEx-OSS/thinkex](https://github.com/ThinkEx-OSS/thinkex) - Study and research, grounded in your sources
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
