@@ -1318,6 +1318,7 @@
 
 ## mcp 
 
+- [prasadpatil25/MindSpark](https://github.com/prasadpatil25/MindSpark) - MindSpark - Mind Map for Everyone
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1716,6 +1717,7 @@
 
 ## prompt-engineering 
 
+- [prasadpatil25/MindSpark](https://github.com/prasadpatil25/MindSpark) - MindSpark - Mind Map for Everyone
 - [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
 
 ## publishing 
