@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [prasadpatil25/MindSpark](https://github.com/prasadpatil25/MindSpark) - MindSpark - Mind Map for Everyone
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
 - [0xs8n/metafaker](https://github.com/0xs8n/metafaker) - 
