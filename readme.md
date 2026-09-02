@@ -253,7 +253,7 @@
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -715,7 +715,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -1253,7 +1253,7 @@
 
 ## machine-learning 
 
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
@@ -1966,7 +1966,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [neonwatty/meme-search](https://github.com/neonwatty/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
+- [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
