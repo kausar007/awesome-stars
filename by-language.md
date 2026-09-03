@@ -234,7 +234,7 @@
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large li
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [mapdraw/mapdraw](https://github.com/mapdraw/mapdraw) - MapDraw is a simple, powerful web-based editor for creating, viewing, and managing geographic data like paths, areas, and markers. Built with Leaflet.js, it supports interactive drawing, file import/e
+- [mapdraw/mapdraw](https://github.com/mapdraw/mapdraw) - MapDraw is a simple, powerful web-based editor for creating, viewing, and managing geographic data like paths, areas, and markers. Built with Leaflet.js, it supports interactive drawing, GeoJSON, GPX,
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - 
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
