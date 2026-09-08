@@ -690,6 +690,7 @@
 
 ## docker 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
 - [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
@@ -1420,6 +1421,7 @@
 
 ## nodejs 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1450,6 +1452,7 @@
 
 ## open-source 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
@@ -1822,6 +1825,7 @@
 
 ## react 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, shadcn/ui, and Supabase.
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -1932,6 +1936,7 @@
 
 ## self-hosted 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
@@ -2095,6 +2100,7 @@
 
 ## tailwindcss 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -2160,6 +2166,7 @@
 
 ## typescript 
 
+- [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [Ralex91/Razzia](https://github.com/Ralex91/Razzia) - A self-hosted, open-source quiz platform for smaller events.
