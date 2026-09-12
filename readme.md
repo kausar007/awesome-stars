@@ -1492,6 +1492,7 @@
 
 ## others 
 
+- [Fenish/decky](https://github.com/Fenish/decky) - Open-source DIY stream deck: touch firmware for the CrowPanel 7-inch ESP32-S3 and a Windows desktop app
 - [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) - Fred TV for Android and iOS
 - [samhedin/disorganized-notes](https://github.com/samhedin/disorganized-notes) - Tables, lists, reminders, real-time sync, multiplatform. Written in ClojureDart.
 - [PanSalut/Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
