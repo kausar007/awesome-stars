@@ -334,7 +334,6 @@
 ## api 
 
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
@@ -811,6 +810,7 @@
 
 ## finance 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter
 
 ## firebase 
@@ -1080,7 +1080,6 @@
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
 - [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - 🐦Dynamically generated animated SVGs for GitHub READMEs
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
@@ -1491,6 +1490,9 @@
 
 ## others 
 
+- [perminder-klair/subwave](https://github.com/perminder-klair/subwave) - Personal internet radio: Agentic AI DJ
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
+- [averygan/reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 - [Fenish/decky](https://github.com/Fenish/decky) - Open-source DIY stream deck: touch firmware for the CrowPanel 7-inch ESP32-S3 and a Windows desktop app
 - [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) - Fred TV for Android and iOS
 - [samhedin/disorganized-notes](https://github.com/samhedin/disorganized-notes) - Tables, lists, reminders, real-time sync, multiplatform. Written in ClojureDart.
