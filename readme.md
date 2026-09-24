@@ -689,6 +689,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
+- [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - Open-source event management, ticketing and membership platform for communities, clubs, independent venues and independent artists.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -1477,6 +1478,7 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [Dyan-Dev/loopi](https://github.com/Dyan-Dev/loopi) - A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally.
+- [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - Open-source event management, ticketing and membership platform for communities, clubs, independent venues and independent artists.
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
@@ -1538,7 +1540,6 @@
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [clip-fish/web](https://github.com/clip-fish/web) - 
 - [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
-- [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - The Django backend of the Revel event platform project
 - [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
@@ -1782,6 +1783,7 @@
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - Open-source event management, ticketing and membership platform for communities, clubs, independent venues and independent artists.
 - [MorrisonWill/awesomeindex](https://github.com/MorrisonWill/awesomeindex) - Awesome Repositories Search Engine
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -1983,6 +1985,7 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
+- [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - Open-source event management, ticketing and membership platform for communities, clubs, independent venues and independent artists.
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self-hosted dashboard and organizer for Excalidraw with multi-user collaboration and scoped sharing.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
