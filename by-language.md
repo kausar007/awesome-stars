@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [miquelrosell99/sonarly](https://github.com/miquelrosell99/sonarly) - Self-hosted music server for your own collection: indexes the folders you already have, serves them through the OpenSubsonic API (any Subsonic client works), with an art-first web player, smart playli
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
