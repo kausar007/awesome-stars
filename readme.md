@@ -1525,7 +1525,7 @@
 
 ## others 
 
-- [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Rune Icons is a set of 900+ icons, each drawn in five styles.
+- [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Open-source icon library: 900+ icons in five styles (outline, duotone, fill, pixelated, glass), a browser editor, 1,100+ brand logos, and npm packages
 - [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name "Reitti" comes from Finnish, meaning "ro
 - [robert-dean/deadair](https://github.com/robert-dean/deadair) - 
 - [Ivan-Malinovski/calino](https://github.com/Ivan-Malinovski/calino) - A beautiful CalDAV client for the web
