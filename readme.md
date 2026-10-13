@@ -943,6 +943,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
@@ -1809,7 +1810,6 @@
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [JanisV/release-bot](https://github.com/JanisV/release-bot) - A Telegram bot that notifies you of new GitHub releases
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -1953,6 +1953,7 @@
 
 ## rust 
 
+- [jub0t/concat](https://github.com/jub0t/concat) - ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [w4/rgit](https://github.com/w4/rgit) - 🏯 blazingly fast web frontend for git repositories
@@ -1981,6 +1982,8 @@
 
 ## self-hosted 
 
+- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
+- [jub0t/concat](https://github.com/jub0t/concat) - ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [TechSquidTV/Cliparr](https://github.com/TechSquidTV/Cliparr) - Create clips from media on your personal media server
@@ -2005,7 +2008,7 @@
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
 - [letsrevel/revel-backend](https://github.com/letsrevel/revel-backend) - Open-source event management, ticketing and membership platform for communities, clubs, independent venues and independent artists.
-- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self host Excalidraw with Collaboration
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw with Full Collaboration
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) - Self host your media and share with unique links
