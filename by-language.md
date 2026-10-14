@@ -30,7 +30,6 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
 - [QML](#qml)
@@ -267,6 +266,7 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [nzbin/photoviewer](https://github.com/nzbin/photoviewer) - 🖼️ A JS plugin to view images just like in Windows.
 - [nanawel/our-shopping-list](https://github.com/nanawel/our-shopping-list) - OSL is a simple shared list web-application based on Node and VueJS. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively. - Moved to http
+- [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [StanfordHCI/wrangler](https://github.com/StanfordHCI/wrangler) - 
@@ -402,10 +402,6 @@
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [WillyJimmyDev/simple-quiz](https://github.com/WillyJimmyDev/simple-quiz) - A simple quiz administration written in PHP with a MySQL backend. Uses Bootstrap 3 and Slim PHP micro framework
 - [J7mbo/twitter-api-php](https://github.com/J7mbo/twitter-api-php) - The simplest PHP Wrapper for Twitter API v1.1 calls
-
-## PowerShell 
-
-- [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.
 
 ## Pug 
 
