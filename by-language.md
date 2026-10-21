@@ -568,6 +568,7 @@
 
 ## TypeScript 
 
+- [marcellosso/penciled](https://github.com/marcellosso/penciled) - Beautiful, persistent text highlights and notes for any webpage. Framework-agnostic, built on the CSS Custom Highlight API.
 - [hitSlop/hitSlop](https://github.com/hitSlop/hitSlop) - 🐷 Build & share local mini apps and interactive documents for your Mac with Svelte and your favorite AI coding agent
 - [BElluu/BetterStatusPage](https://github.com/BElluu/BetterStatusPage) - A self-hosted status page that doesn't make you cry.
 - [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Open-source icon library: 900+ icons in five styles (outline, duotone, fill, pixelated, glass), a browser editor, 1,100+ brand logos, and npm packages
