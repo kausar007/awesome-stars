@@ -88,7 +88,7 @@
 ## CSS 
 
 - [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.
-- [mikey177013/Clock](https://github.com/mikey177013/Clock) - A clock interface.
+- [noturpiyuxh/Clock](https://github.com/noturpiyuxh/Clock) - A clock interface.
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -160,7 +160,6 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working for enterprises
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -508,7 +507,7 @@
 
 ## Rust 
 
-- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
@@ -533,9 +532,11 @@
 
 ## Shell 
 
+- [TypeType-Video/TypeType](https://github.com/TypeType-Video/TypeType) - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [barthr/commandpilot](https://github.com/barthr/commandpilot) - Commandpilot is an assistant which uses ChatGPT to aid in constructing commands for bash
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -573,16 +574,17 @@
 
 ## TypeScript 
 
+- [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [keptinventory/kept](https://github.com/keptinventory/kept) - Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [marcellosso/penciled](https://github.com/marcellosso/penciled) - penciled.js: a 15 kB open-source JavaScript library for persistent text highlights and notes on any web page. Built on the CSS Custom Highlight API.
-- [hitSlop/hitSlop](https://github.com/hitSlop/hitSlop) - 🐷 Build & share local mini apps and interactive documents for your Mac with Svelte and your favorite AI coding agent
+- [hitSlop/dotpop](https://github.com/hitSlop/dotpop) - Build & share local mini apps and interactive documents for your Mac with Svelte and your favorite AI coding agent
 - [BElluu/BetterStatusPage](https://github.com/BElluu/BetterStatusPage) - A self-hosted status page that doesn't make you cry.
 - [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Open-source icon library: 900+ icons in five styles (outline, duotone, fill, pixelated, glass), a browser editor, 1,100+ brand logos, and npm packages
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [TechSquidTV/Cliparr](https://github.com/TechSquidTV/Cliparr) - Create clips from media on your personal media server
-- [robert-dean/deadair](https://github.com/robert-dean/deadair) - 
+- [robert-dean/deadair](https://github.com/robert-dean/deadair) - A personal AI radio station you run yourself: an AI DJ picks records from Navidrome, Plex, Jellyfin or Spotify, talks between them, and streams over Icecast.
 - [Ivan-Malinovski/calino](https://github.com/Ivan-Malinovski/calino) - A beautiful CalDAV client for the web
 - [perminder-klair/subwave](https://github.com/perminder-klair/subwave) - Personal internet radio: Agentic AI DJ
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -627,7 +629,7 @@
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor
 - [importcsv/importcsv](https://github.com/importcsv/importcsv) - Open-source CSV Importer for React
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [kaisdukes/quranic-corpus](https://github.com/kaisdukes/quranic-corpus) - The Quranic Arabic Corpus, an invaluable linguistic resource, is due for a revamp. We're calling on Linguistics, AI, and Tech volunteers to join us in this exciting journey. 🚀
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [shantnudon/Dashix](https://github.com/shantnudon/Dashix) - A public website offering a suite of tools for self-hosters to build Docker compose files, configs, scheduled tasks, and more with ease.
@@ -655,7 +657,7 @@
 - [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [rishikanthc/markopolis](https://github.com/rishikanthc/markopolis) - Markdown Programmable Interface
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast, web-based Markdown notes app.
