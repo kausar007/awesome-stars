@@ -716,6 +716,7 @@
 
 ## django 
 
+- [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
@@ -732,6 +733,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [robert-dean/deadair](https://github.com/robert-dean/deadair) - A personal AI radio station you run yourself: an AI DJ picks records from Navidrome, Plex, Jellyfin or Spotify, talks between them, and streams over Icecast.
 - [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
 - [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
@@ -1520,6 +1522,7 @@
 
 ## open-source 
 
+- [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [liketrek/TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routin
@@ -1562,10 +1565,10 @@
 
 ## others 
 
+- [TypeType-Video/TypeType](https://github.com/TypeType-Video/TypeType) - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico
 - [BElluu/BetterStatusPage](https://github.com/BElluu/BetterStatusPage) - A self-hosted status page that doesn't make you cry.
 - [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Open-source icon library: 900+ icons in five styles (outline, duotone, fill, pixelated, glass), a browser editor, 1,100+ brand logos, and npm packages
 - [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name "Reitti" comes from Finnish, meaning "ro
-- [robert-dean/deadair](https://github.com/robert-dean/deadair) - 
 - [Ivan-Malinovski/calino](https://github.com/Ivan-Malinovski/calino) - A beautiful CalDAV client for the web
 - [perminder-klair/subwave](https://github.com/perminder-klair/subwave) - Personal internet radio: Agentic AI DJ
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
@@ -1910,6 +1913,7 @@
 
 ## react 
 
+- [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [keptinventory/kept](https://github.com/keptinventory/kept) - Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.
 - [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.
 - [marcellosso/penciled](https://github.com/marcellosso/penciled) - penciled.js: a 15 kB open-source JavaScript library for persistent text highlights and notes on any web page. Built on the CSS Custom Highlight API.
@@ -2025,17 +2029,19 @@
 
 ## self-hosted 
 
+- [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [keptinventory/kept](https://github.com/keptinventory/kept) - Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.
 - [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
-- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [TechSquidTV/Cliparr](https://github.com/TechSquidTV/Cliparr) - Create clips from media on your personal media server
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [robert-dean/deadair](https://github.com/robert-dean/deadair) - A personal AI radio station you run yourself: an AI DJ picks records from Navidrome, Plex, Jellyfin or Spotify, talks between them, and streams over Icecast.
 - [PicPeak/picpeak](https://github.com/PicPeak/picpeak) - Open-source, self-hosted photo and video galleries for photographers and events, with client proofing, password protection, guest uploads, custom branding and Docker deployment.
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
 - [Abrechen2/TravStats](https://github.com/Abrechen2/TravStats) - Self-hosted travel logbook.
@@ -2275,6 +2281,7 @@
 
 ## typescript 
 
+- [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [keptinventory/kept](https://github.com/keptinventory/kept) - Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.
 - [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.
 - [marcellosso/penciled](https://github.com/marcellosso/penciled) - penciled.js: a 15 kB open-source JavaScript library for persistent text highlights and notes on any web page. Built on the CSS Custom Highlight API.
