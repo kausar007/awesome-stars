@@ -287,6 +287,7 @@
 
 ## ai-agents 
 
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
@@ -353,6 +354,7 @@
 
 ## animation 
 
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.
 - [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - 🐦Dynamically generated animated SVGs for GitHub READMEs
 - [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG) - A More Powerful Typing SVG Generator—multi-line & blank-space formatting, multiple cursor styles, customizable delete speed, and more.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
@@ -507,6 +509,7 @@
 
 ## claude-code 
 
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Replace the SaaS you pay for. One binary installs and runs self-hosted apps at home, no Docker knowledge needed. Terminal dashboard for you, plain commands for your agent.
 
@@ -1134,6 +1137,7 @@
 
 ## javascript 
 
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.
 - [marcellosso/penciled](https://github.com/marcellosso/penciled) - penciled.js: a 15 kB open-source JavaScript library for persistent text highlights and notes on any web page. Built on the CSS Custom Highlight API.
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
@@ -1913,6 +1917,7 @@
 
 ## react 
 
+- [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [keptinventory/kept](https://github.com/keptinventory/kept) - Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.
 - [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker that keeps its own history: rewind any moment, every contact with its source and age. No API keys.
@@ -2029,6 +2034,8 @@
 
 ## self-hosted 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
+- [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [keptinventory/kept](https://github.com/keptinventory/kept) - Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.
@@ -2266,6 +2273,7 @@
 
 ## text-to-speech 
 
+- [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 ## tui 
@@ -2435,6 +2443,8 @@
 
 ## youtube 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
+- [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
