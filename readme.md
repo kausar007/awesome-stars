@@ -228,6 +228,7 @@
 - [web-components](#web-components)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
@@ -1587,6 +1588,7 @@
 
 ## others 
 
+- [RobXYZ/viofosync](https://github.com/RobXYZ/viofosync) - Self-hosted web app for automatically downloading, browsing, editing and exporting recordings from a Viofo dashcam over Wi-Fi.
 - [TypeType-Video/TypeType](https://github.com/TypeType-Video/TypeType) - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico
 - [BElluu/BetterStatusPage](https://github.com/BElluu/BetterStatusPage) - A self-hosted status page that doesn't make you cry.
 - [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Open-source icon library: 900+ icons in five styles (outline, duotone, fill, pixelated, glass), a browser editor, 1,100+ brand logos, and npm packages
@@ -2435,6 +2437,11 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+
+## whatsapp 
+
+- [hankhank10/loglink-server](https://github.com/hankhank10/loglink-server) - Send content from mobile apps to Logseq
+- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
 
 ## windows 
 
