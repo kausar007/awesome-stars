@@ -414,6 +414,7 @@
 
 ## Python 
 
+- [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [RobXYZ/viofosync](https://github.com/RobXYZ/viofosync) - Self-hosted web app for automatically downloading, browsing, editing and exporting recordings from a Viofo dashcam over Wi-Fi.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
