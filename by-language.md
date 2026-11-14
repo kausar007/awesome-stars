@@ -471,7 +471,7 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [animator/learn-python](https://github.com/animator/learn-python) - 📖🐍 Free & Open Source book to master Python 3. Also available: PDF & Web Interface.
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
