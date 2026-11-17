@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -253,6 +254,12 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [ajnart/self-host](https://github.com/ajnart/self-host) - Replace the SaaS you pay for. One binary installs and runs self-hosted apps at home, no Docker knowledge needed. Terminal dashboard for you, plain commands for your agent.
 
+## agentic-ai 
+
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+
 ## agents 
 
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
@@ -322,6 +329,7 @@
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [curbox-app/curbox-android](https://github.com/curbox-app/curbox-android) - Free Open Source App & Website Blocker
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -1120,6 +1128,7 @@
 
 ## ios 
 
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
@@ -1152,6 +1161,7 @@
 - [marcellosso/penciled](https://github.com/marcellosso/penciled) - penciled.js: a 15 kB open-source JavaScript library for persistent text highlights and notes on any web page. Built on the CSS Custom Highlight API.
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [skrodahl/NewTon](https://github.com/skrodahl/NewTon) - Darts Tournament Manager
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [readme-SVG/readme-SVG-typing-generator](https://github.com/readme-SVG/readme-SVG-typing-generator) - 🐦Dynamically generated animated SVGs for GitHub READMEs
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
@@ -1217,6 +1227,7 @@
 
 ## jetpack-compose 
 
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
@@ -1245,6 +1256,7 @@
 ## kotlin 
 
 - [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [bayang/jelu](https://github.com/bayang/jelu) - Self hosted read and to-read list book tracker
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
@@ -1352,6 +1364,7 @@
 
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [hitSlop/dotpop](https://github.com/hitSlop/dotpop) - Build & share local mini apps and interactive documents for your Mac with Svelte and your favorite AI coding agent
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extens
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -2228,7 +2241,7 @@
 ## swift 
 
 - [hitSlop/dotpop](https://github.com/hitSlop/dotpop) - Build & share local mini apps and interactive documents for your Mac with Svelte and your favorite AI coding agent
-- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
@@ -2236,7 +2249,7 @@
 
 ## swiftui 
 
-- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - ScriptWidget is an iOS/macOS app that we can create widgets for iOS/macOS using JSX label style in JavaScript.
+- [everettjf/scriptwidget](https://github.com/everettjf/scriptwidget) - Write native widgets for iPhone, iPad, Mac and Android in JavaScript and JSX. Open source, with a browser studio, templates and AI.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 
 ## symfony 
