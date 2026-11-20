@@ -201,6 +201,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -485,7 +486,7 @@
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## c 
 
@@ -628,7 +629,7 @@
 
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [dinubs/jam-api](https://github.com/dinubs/jam-api) - Parse web pages using CSS query selectors
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 
@@ -954,7 +955,7 @@
 
 - [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
-- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+- [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [w4/rgit](https://github.com/w4/rgit) - 🏯 blazingly fast web frontend for git repositories
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1018,7 +1019,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+- [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1091,7 +1092,7 @@
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [casualwriter/casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog) - Markdown-as-blog: Build blog site by markdown files.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 
@@ -1100,7 +1101,7 @@
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
 - [MarmadileManteater/FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - a soft fork of FreeTube which brings it to Android (formerly FreeTubeCordova)
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 
 ## http 
@@ -1207,7 +1208,7 @@
 
 - [sempostma/json-gui](https://github.com/sempostma/json-gui) - JSON Viewer
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
@@ -1608,6 +1609,7 @@
 
 ## others 
 
+- [Neuroxcx1/Odinote](https://github.com/Neuroxcx1/Odinote) - Free Project Manager App
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [RobXYZ/viofosync](https://github.com/RobXYZ/viofosync) - Self-hosted web app for automatically downloading, browsing, editing and exporting recordings from a Viofo dashcam over Wi-Fi.
 - [TypeType-Video/TypeType](https://github.com/TypeType-Video/TypeType) - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico
@@ -2060,7 +2062,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## security 
 
@@ -2226,6 +2228,14 @@
 - [GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img) - A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+## static-site-generator 
+
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
 ## support 
 
