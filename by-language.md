@@ -425,6 +425,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube for TV clients.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
+- [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [risan/quran-json](https://github.com/risan/quran-json) - Quran text and translations in JSON format.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -511,7 +512,7 @@
 ## Rust 
 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The open-source CapCut alternative.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
@@ -556,7 +557,6 @@
 
 ## Svelte 
 
-- [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [rishikanthc/zendo](https://github.com/rishikanthc/zendo) - Self-hosted minimalistic task manager
 
 ## Swift 
@@ -621,7 +621,7 @@
 - [panteLx/BetterShift](https://github.com/panteLx/BetterShift) - Your favorite shift management application!
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
-- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw with Full Collaboration
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw workspace and Excalidraw+ alternative with saved drawings, collections, real-time collaboration, and OIDC SSO in Docker Compose.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
